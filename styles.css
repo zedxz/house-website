@@ -1,0 +1,29 @@
+#welcome-text {
+	font-size: 40px;
+	background: pink;
+	text-align: center;
+}
+#welcome-text {
+     text-shadow: 2px 2px #FF0000;
+ }
+
+ #kitchen-text {
+	text-align: center;
+    border: 1px solid red;
+    outline-style: dotted;
+    outline-color: #00ff00;
+}
+.room-link {
+	background: #D7BDE2  ;
+}
+
+#kitchen-link.room-link {
+	background: #D7BDE2  ;
+}
+
+.hidden{visibility: hidden}
+
+.largehouse{
+	height: 900px;
+	width: 900px;
+}
